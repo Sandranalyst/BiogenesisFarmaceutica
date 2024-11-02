@@ -17,6 +17,7 @@ Entre los objetivos organizacionales está optimizar la respuesta a los efectos 
 - Se calculan medidas estadísticas con Pandas y Numpy, como tendencia central, dispersión y correlaciones entre variables. Se crean visualizaciones con Matplotlib y Seaborn.
 - Se generan gráficos como histogramas, gráficos de barras, mapas de calor y diagramas de dispersión para comprender la distribución de la incidencia del Covid-19, las tasas de vacunación y exploran posibles relaciones entre variables.
 - Se hace un análisis exploratorio utilizando técnicas avanzadas de Numpy y Pandas, centradas en las series temporales para comprender la evolución de elementos específicos del conjunto de datos.
+  
 **CREACION DE DASHBOARD INTERACTIVO:** 
 
 - Creación de dashboard interactivo, utilizarán los datos proporcionados para ofrecer insights valiosos sobre posibles ubicaciones estratégicas para futuros laboratorios y centros de vacunación. Este análisis de tendencias y demografía es fundamental para comprender el entorno del mercado en los países de interés.
